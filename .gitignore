@@ -1,0 +1,12 @@
+#Excluir una carpeta completa: Agrega una diagonal al final.
+#    Ejemplo: node_modules/ (ignora la carpeta y todo lo que esté dentro).
+node_modules
+
+#Excluir un archivo específico: Escribe el nombre exacto del archivo con su extensión.
+#    Ejemplo: .env
+
+#Excluir por extensión (Comodín *): Usa el asterisco para ignorar un tipo de archivo.
+#    Ejemplo: *.log (ignora cualquier archivo que termine en .log).
+
+#Crear excepciones (Signo !): Si ignoras una carpeta pero quieres salvar un archivo específico dentro de ella.
+#    Ejemplo: Si pones config/ pero quieres mantener un archivo, usas !config/readme.md.
