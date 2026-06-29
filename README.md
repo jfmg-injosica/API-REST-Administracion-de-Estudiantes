@@ -19,7 +19,7 @@ Esta es una API REST funcional construida con Node.js y Express.js para gestiona
    
 6. Tabla de EndPoint disponibles:  
    MÉTODO HTTP   ENDPOINT            DESCRIPCIÓN  
-   GET           /estudiantes        Obtiene el catálogo completo de alumnos inscritos.  
+   GET &nbsp; &nbsp; &nbsp; /estudiantes &nbsp; &nbsp; &nbsp; Obtiene el catálogo completo de alumnos inscritos.  
    GET           /estudiantes/:id    Filtra y devuelve un único estudiante por su identificador numérico.  
    POST          /estudiantes        Agrega un nuevo registro de estudiante en el arreglo.  
    PUT           /estudiantes/:id    Modifica de manera parcial o completa los datos de un estudiante.  
