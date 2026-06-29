@@ -21,9 +21,9 @@ Esta es una API REST funcional construida con Node.js y Express.js para gestiona
    MÉTODO HTTP   ENDPOINT            DESCRIPCIÓN  
    GET &nbsp; &nbsp; &nbsp; &nbsp; /estudiantes &nbsp; &nbsp; &nbsp; &nbsp; Obtiene el catálogo completo de alumnos inscritos.  
    GET &nbsp; &nbsp; &nbsp; &nbsp; /estudiantes/:id &nbsp; &nbsp; &nbsp; &nbsp; Filtra y devuelve un único estudiante por su identificador numérico.  
-   POST &nbsp; &nbsp; &nbsp; /estudiantes &nbsp; &nbsp; &nbsp; &nbsp; Agrega un nuevo registro de estudiante en el arreglo.  
+   POST &nbsp; &nbsp; /estudiantes &nbsp; &nbsp; &nbsp; &nbsp; Agrega un nuevo registro de estudiante en el arreglo.  
    PUT &nbsp; &nbsp; &nbsp; &nbsp; /estudiantes/:id &nbsp; &nbsp; &nbsp; &nbsp; Modifica de manera parcial o completa los datos de un estudiante.  
-   DELETE &nbsp; &nbsp; /estudiantes/:id &nbsp; &nbsp; &nbsp; &nbsp; Elimina el registro deun estudiante indicado por el parámetro ID.  
+   DELETE &nbsp; /estudiantes/:id &nbsp; &nbsp; &nbsp; &nbsp; Elimina el registro deun estudiante indicado por el parámetro ID.  
    
 ## 🚀 Realizado por: Juan Francisco Martínez González
 
