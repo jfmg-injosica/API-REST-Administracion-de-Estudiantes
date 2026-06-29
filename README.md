@@ -10,7 +10,7 @@ Esta es una API REST funcional construida con Node.js y Express.js para gestiona
    ```bash
    npm install
 
-4. Cómo ejecutar cada EndPoint del API REST de Administración de Estudiantes:
+4. Cómo ejecutar cada EndPoint del API REST de Administración de Estudiantes:  
    4.a) GET http://localhost:3000//estudiantes  
    4.b) GET http://localhost:3000//estudiantes/NumeroID  
    4.c) POST http://localhost:3000//estudiantes  
@@ -26,5 +26,6 @@ Esta es una API REST funcional construida con Node.js y Express.js para gestiona
    DELETE        /estudiantes/:id    Elimina el registro deun estudiante indicado por el parámetro ID.  
    
 ## 🚀 Realizado por: Juan Francisco Martínez González
+
 ## 🚀 Instituto Nacional "José Simeón Cañas" Zacatecoluca
 
